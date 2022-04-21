@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    text-align: center;
+    justify-content: space-around;
+    justify-items: center;
+    display: flex;
+    line-height: 20px;
+    padding: 15px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 20px;
+    }
+
+    li{
+        padding: 10 20px;
+                font-weight: bold;
+    }
+    
+    #get{
+        padding: 10 20px;
+        background-color: #C54E57;
+        color: white;
+        margin-block: 40;
+        margin-left: 30px;
+    }
+    #right-content{
+        margin-left: 60px;
+            }
+            #left-content{
+                margin-right: 140px;
+                padding-top: 8px;
+                text-transform: uppercase;
+                font-size: x-small
+            }
+
+        .main{
+            background-image: url(IMG4.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+                 }
+
+                 .inside{
+                     text-align: center;
+                     padding: 150 0;
+                     margin-right: 650px;
+                     
+                 }
+                 h2{
+                   text-transform: uppercase;  
+                   color: #C54E57;
+                   font-weight: lighter;
+                   font-size: 19px;
+                   padding-bottom: 30px;
+                   padding-right: 50px;
+                 }
+                 h3{
+                     color: purple;
+                     font-size: 35px;
+                     padding-right: 50px;
+                                     }
+                                     #designer{
+                                         padding-right: 130px;
+                                     }
+                                     #paragraph{
+                                         margin: 20px;
+                                         margin-left: 160px;
+                                         line-height: 25px;
+                                     }
+                                     #para3{
+                                         margin-right: 380;
+                                     }
+                                     #para2{
+                                         margin-right: 10px;
+                                     }
+
+                                     button{
+                                         padding: 15 50px;
+                                         margin: 15 10px;
+                                     }
+                                     #learn{
+                                         color: white;
+                                         background-color: #C54E57;
+                                         border: none;
+                                     }
+                                     #hire{
+                                         border: none;
+                                     }
+                                     .footer{
+                                         display: flex;
+                                         padding-top: 100px;
+                                         padding-bottom: 10px;
+                                         text-align: center;
+                                         justify-items: center;
+                                     }
+                                     .leftfoot{
+                                        padding-left: 300px;                                          
+                                     }
+                                     .rightfoot{
+                                         padding-left:  200px;
+                                     }
+                                     h5{
+                                         font-size: 20px;
+
+                                        }
+                                        #exploring{
+                                            padding-right: 55px;
+                                        }
+                                        #discussion{
+                                            padding-right: 50px;
+                                        }
+                                        .icon{
+                                            display: flex;
+                                        }
+                                        h1{
+                                            padding-left: 10px;
+                                        }
+                                     
+            

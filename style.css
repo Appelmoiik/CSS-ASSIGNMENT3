@@ -41,7 +41,7 @@ ul{
             }
 
         .main{
-            background-image: url(IMG4.jpg);
+            background-image: url(IMG3.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             height: 100vh;
@@ -55,7 +55,7 @@ ul{
                  }
                  h2{
                    text-transform: uppercase;  
-                   color: #C54E57;
+                   color: seagreen;
                    font-weight: lighter;
                    font-size: 19px;
                    padding-bottom: 30px;
@@ -65,9 +65,10 @@ ul{
                      color: purple;
                      font-size: 35px;
                      padding-right: 50px;
+                     padding-top: 20px;
                                      }
                                      #designer{
-                                         padding-right: 130px;
+                                         padding-right: 30px;
                                      }
                                      #paragraph{
                                          margin: 20px;
